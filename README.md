@@ -16,8 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Malware Investigation With Splunk          | <a href="https://docs.google.com/presentation/d/1ADBKfLjycAzFlCc2tj_uURPC7MZAZ58kT0x2EDJdXsw/edit?usp=sharing">Conti Ransomware Investigation Lab</a>|
-| Disk Image Analysis With Autopsy | <a href="https://google.com">Disk Image Analysis Lab</a>|
-| Phising and C2 Traffic Analysis With Wireshark         | <a href="https://google.com">Wireshark Analysis Lab</a>|
+| Disk Image Analysis With Autopsy | <a href="https://docs.google.com/presentation/d/1gBfdBlCCv-7yNTiW81-k1koowQdefMuAZDt89w_64Uo/edit?usp=sharing">Disk Image Analysis Lab</a>|
+| Phising and C2 Traffic Analysis With Wireshark         | <a href="https://docs.google.com/presentation/d/1AxAXnr5uz5WANzTtxOKtE_rPuoYH-g3TdvpJQsV3I9M/edit?usp=sharing">Wireshark Analysis Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
