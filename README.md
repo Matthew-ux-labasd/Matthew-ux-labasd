@@ -1,14 +1,12 @@
 # Hello, I'm Matthew
 <a href="https://www.linkedin.com/in/matthew-stumpf-b7274b3a5/?trk=opento_sprofile_topcard" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I graudated highschool last year and initially enrolled in college but I hated how slow it went and decided to learn cybersecurity instead of enrolling for another semester. I earned the Google Cybersecurity Professional certificate in eight days and I've been continuously learning since then.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I've always loved solving problems and learning new things, so cybersecurity was very attractive to me. Escpecially after completing labs myself and having to use what I know and learn things I didn't know to get through them. My goal right now is to get an entry level role in cybersecurity like a tier 1 SOC analyst or a cybersecurity analyst so I can get into the industry and start solving real world problems.
 
 ## Labs
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
