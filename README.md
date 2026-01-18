@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Digital Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/corecomponents/autopsy_logo.svg&logoColor=white" />
 </div>
 
 ### SIEM
