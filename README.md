@@ -15,9 +15,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
+| Malware Investigation With Splunk          | <a href="https://docs.google.com/presentation/d/1ADBKfLjycAzFlCc2tj_uURPC7MZAZ58kT0x2EDJdXsw/edit?usp=sharing">Conti Ransomware Investigation Lab</a>|
+| Disk Image Analysis With Autopsy | <a href="https://google.com">Disk Image Analysis Lab</a>|
+| Phising and C2 Traffic Analysis With Wireshark         | <a href="https://google.com">Wireshark Analysis Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
