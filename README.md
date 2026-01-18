@@ -2,14 +2,13 @@
 <a href="https://www.linkedin.com/in/matthew-stumpf-b7274b3a5/?trk=opento_sprofile_topcard" /></a>
 
 
-I graudated highschool last year and initially enrolled in college but I hated how slow it went and decided to learn cybersecurity instead of enrolling for another semester. I earned the Google Cybersecurity Professional certificate in eight days and I've been continuously learning more about cybersecurity since then. 
+I graudated highschool last year and initially enrolled in college but I hated how slow it went and decided to learn cybersecurity instead of enrolling for another semester. I earned the Google Cybersecurity Professional certificate in eight days and I've been continuously learning more about cybersecurity since then through various labs and projects.
 
 ## Objective
 
 I've always loved solving problems and learning new things, so cybersecurity was very attractive to me. Escpecially after completing labs myself and having to use what I know and learn things I didn't know to get through them. My goal right now is to get an entry level role in cybersecurity like a tier 1 SOC analyst or a cybersecurity analyst so I can get into the industry and start solving real world problems. I'm also currently studying for the CompTIA Security+ exam and I expect to have the cerification with the next few months.
 
-## Labs
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Documented Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
